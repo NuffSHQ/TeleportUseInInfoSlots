@@ -1,0 +1,15 @@
+{
+  "VanillaItemIDs": [
+    3124, 5358, 5359, 5360, 5361
+  ],
+  "ModdedItems": [
+    { "ModName": "ThoriumMod", "ItemName": "WishingGlass" },
+    { "ModName": "ThoriumWishingGlassReplacer", "ItemName": "WishingGlass" },
+    { "ModName": "MaddieQoL", "ItemName": "CellPhonePlus" }, 
+    { "ModName": "MaddieQoL", "ItemName": "ShellphonePlusSpawn" }, 
+    { "ModName": "MaddieQoL", "ItemName": "ShellphonePlusReturn" }, 
+    { "ModName": "MaddieQoL", "ItemName": "ShellphonePlusHome" }, 
+    { "ModName": "MaddieQoL", "ItemName": "ShellphonePlusOcean" }, 
+    { "ModName": "MaddieQoL", "ItemName": "ShellphonePlusHell" }
+  ]
+}

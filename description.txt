@@ -1,0 +1,12 @@
+[c/FFFF00:Teleport Use In Info Accessory Slots]
+A utility mod for the [c/87ceeb:InfoAccessorySlots by Moonlight Glint], that allows activation of teleportation directly from custom information accessory slots via a customizable hotkey.
+
+[c/FFFF00:Key Features]
+[c/ffeb3b:Hotkey Teleportation:] Adds a hotkey that scans the info accessory slots, detects compatible teleportation items, and activates them without needing to hold them or put them in your main inventory.
+
+[c/ffeb3b:Built-In Compatible Mods:] Has built-in mod support for [c/87ceeb:MaddieQoL - CellPhonePlus and ShellphonePlus | Thorium - Wishing Glass]
+
+[c/ffeb3b:User-Extendable Mod Compatibility:] Can self-register new items via the JSON file. (TeleportUseInInfoSlots > Data > TeleportItem.json)
+
+[c/FFFF00:Open Source] 
+The source code is fully viewable on GitHub or by extracting the mod.

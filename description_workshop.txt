@@ -1,0 +1,29 @@
+[h1] Teleport Use In Info Slots [/h1]
+A utility mod for the Info Accessory Slots by Moonlight Glint, that allows you to activate teleportation accessories directly from the info accessory slots via a customizable hotkey.
+
+[h1] Cross-Mod Integration [/h1]
+[list]
+    [*]Requires [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3665159143]InfoAccessorySlots by Moonlight Glint[/url] to function.
+[/list]
+
+[h1] Key Features [/h1]
+
+[b] Hotkey Teleportation: [/b] Adds a dedicated hotkey that scans your information accessory slots, detects compatible teleportation items, and activates them without needing to hold them or put them in your main inventory.
+
+[h1] Built-In Compatible Mods [/h1]
+[list]
+    [*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2909886416]Thorium:[/url] Wishing Glass
+    [*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3810036470]ThoriumWishingGlassReplacer:[/url] Wishing Glass
+    [*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3386950960]MaddieQoL: [/url] CellPhonePlus, ShellphonePlusSpawn, ShellphonePlusReturn, ShellphonePlusHome, ShellphonePlusOcean, ShellphonePlusHell 
+[/list]
+
+[b] User-Extendable Mod Compatibility: [/b] Can self-register new items via the JSON file. (TeleportUseInInfoSlots > Data > TeleportItem.json) 
+
+[h1] Open Source [/h1] 
+The source code is fully viewable on GitHub or by extracting the mod.
+
+[h1] Notes [/h1] 
+If you find any issues, please leave them down in the comments.
+
+[quote=NuffSHQ]
+Developed By NuffSHQ[/quote]

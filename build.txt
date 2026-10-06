@@ -1,0 +1,16 @@
+displayName = Info Accessory Slots: Teleport Usage Utility Mod
+name = TeleportUseInInfoSlots
+author = NuffSHQ
+version = 1.0.0
+side = Both
+homepage = 
+buildIgnore = *.csproj, *.user, obj/**, bin/**, .vs/**, Old/**
+
+# Needed Dependency
+modReferences = InfoAccessorySlots
+weakReferences = ThoriumMod, ThoriumWishingGlassReplacer, MaddieQoL
+sortAfter = InfoAccessorySlots
+
+# Security & compilation packaging settings
+hideCode = false
+hideResources = false
