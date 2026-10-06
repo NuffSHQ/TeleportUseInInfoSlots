@@ -3,7 +3,7 @@ name = TeleportUseInInfoSlots
 author = NuffSHQ
 version = 1.0.0
 side = Both
-homepage = 
+homepage = https://github.com/NuffSHQ/TeleportUseInInfoSlots
 buildIgnore = *.csproj, *.user, obj/**, bin/**, .vs/**, Old/**
 
 # Needed Dependency
